@@ -1,0 +1,359 @@
+html {
+  width: 100%;
+  backgound-image: url("https://easydrawingguides-7512.kxcdn.com/wp-content/uploads/2018/10/Donut-07.png");
+  }
+
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  height: 100%;
+  min-width: 1px;
+  min-height: 1px;
+  background-image: url('https://easydrawingguides-7512.kxcdn.com/wp-content/uploads/2018/10/Donut-07.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center
+}
+
+.contact {
+  font-size: 24px;
+  text-decoration: none;
+  padding: 4px 15px;
+  background-color: Red;
+  color: White;
+}
+
+.about {
+  font-size: 24px;
+  padding: 4px 15px;
+  text-decoration: none;
+  color: White;
+  background-color: Red;
+  text-align: right;
+}
+
+.photo {
+  font-size: 24px;
+  padding: 4px 15px;
+  text-decoration: none;
+  color: White;
+  background-color: Red;
+  text-align: right;
+}
+
+.title {
+  font-size: 48px;
+  font-family: Broadway;
+  font-weight: bold;
+  color:;
+  text-align: center;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%; 
+  background-color: MediumBlue;
+  color: White;
+  margin-left: 950px;
+  margin-top: 655px
+}
+
+.social {
+  font-family: Magneto;
+  position: relative;
+  top: 640px;
+  font-size: 48px;
+  text-align: center;
+}
+
+body {
+  background-color:AntiqueWhite;
+  width: 100%;
+}
+
+.arrow1 {
+  text-decoration: none;
+  font-size: 42px;  
+  color: Red;
+  position: absolute; 
+  top: 0px;
+  left: 0px;
+  width: 10px; 
+  height: 2px; 
+  border-top: 40px solid transparent; 
+  border-bottom: 40px solid transparent; 
+  border-left: 35px solid Black;
+  margin-left: 15px;
+  margin-right: auto ;
+  overflow:;
+  font-weight: bold;
+  margin-top: 900px;
+}
+
+.donuts {
+  text-decoration: none;
+  font-size: 42px;
+  color: Red;
+  position: absolute; 
+  bottom: 0px;
+  left: 1700px;
+  width: 10px; 
+  height: 0px; 
+  border-top: 40px solid transparent; 
+  border-bottom: 40px solid transparent; 
+  border-left: 35px solid Black;
+  margin-left: auto ;
+  margin-right: auto ;
+  top: 900px;
+  overflow: flow-wrap;
+  font-weight: bold;
+}
+
+#pic {
+  background-color: Orange;
+  opacity: 0.3;
+  height: ;
+  width: 100%;
+  postion: absolute;
+  z-index: 0;
+}
+
+#video {
+  text-align: right;
+  margin-top: -225px;
+  postion: ;
+  z-index:;
+  opacity: 1.0;
+}
+
+.titlecontact {
+  font-size: 48px;
+  font-family: Broadway;
+  text-align: center;
+  background-position: center top;
+}
+  
+.a {
+  margin-left: 905px;
+ }
+
+.address {
+  margin-left: 82px;
+}
+
+.phone {
+  margin-left: -70px;
+  margin-bottom: px;
+}
+
+.num {
+  text-decoration: none;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+
+.email-address {
+  margin-left: 100px;
+  color: Red;
+  margin-top: -25px;
+}
+
+.mail {
+  margin-left: -230px;
+}
+
+.messenger {
+  margin-left: 75px;
+  margin-top: 12px;
+}
+
+.mess-address {
+  text-decoration: none;
+  margin-top: px;
+  margin-left: 5px;
+}
+
+p {
+  font-size: 26px;
+}
+
+.aboutb {
+  font-size:48px;
+  font-family: Stencil;
+}
+
+.map {
+  
+}
+
+body p {
+  font-size: 24px
+}
+
+body h2 {
+  font-size: 48px;
+  text-align: center;
+  font-family: Stencil;
+}
+
+.t1 {
+  padding: 15px 5px;
+  background-color: Orange;
+  width: 425px;
+  text-align: center;
+  }
+
+.t2 {
+  padding: 15px 5px;
+  background-color: DarkOrange;
+  width: 425px;
+  }
+
+.t3 {
+  padding: 15px 5px;
+  Background-color: Orange;
+  width: 425px;
+  }
+
+.column {
+  position: relative;
+  bottom:50px;
+  padding: 30px;
+  }
+
+.row {
+  margin-bottom:;
+  }
+
+.t1 td {
+  text-decoration: underline;
+}
+
+.t2 td {
+  text-decoration: underline;
+}
+
+.t3 td {
+  text-decoration: underline;
+}
+
+.t4 td {
+  text-decoration: underline;
+}
+html body {
+  background-color: AntiqueWhite;
+}
+
+body h2 {
+  font-size: 48px;
+  text-align: center;
+  font-family: Broadway;
+}
+
+body h3 {
+  text-align: center;
+}
+
+#comment {
+  text-align: center;
+  background-color:;
+  margin-left:;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.submit {
+  background-color: Blue;
+  color: White;
+}
+
+.commentbox {
+  text-align: center;
+  background-color: ;
+}
+body p {
+  text-align: center;
+}
+
+body h2 {
+  font-size: 48px;
+  text-align: center;
+  font-family: Broadway;
+}
+
+body h3 {
+  text-align: center;
+}
+
+#comment {
+  text-align: center;
+  background-color:;
+  margin-left:;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.submit {
+  background-color: Blue;
+  color: White;
+}
+
+.commentbox {
+  text-align: center;
+  background-color: ;
+}
+body p {
+  text-align: center;
+}
+
+html body {
+  background-color: AntiqueWhite;
+}
+
+body h2 {
+  font-size: 48px;
+  text-align: center;
+  font-family: Broadway;
+}
+
+body h3 {
+  text-align: center;
+}
+
+#comment {
+  text-align: center;
+  background-color:;
+  margin-left:;
+  padding: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.submit {
+  background-color: Blue;
+  color: White;
+}
+
+.commentbox {
+  text-align: center;
+  background-color: ;
+}
+body p {
+  text-align: center;
+}
+
+body h2 {
+  text-align: center;
+  font-family: Broadway;
+  font-weight: bold;
+  font-size: 48px;
+  }
+
+
